@@ -4,8 +4,6 @@ game.StarterGui:SetCore("SendNotification", {
     Duration = "6";
 })
 
-
-
 local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/SnBTdXsz"))()
 Aiming.TeamCheck(false)
 
